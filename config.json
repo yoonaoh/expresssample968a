@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0.0",
+  "components": [
+    {
+      "id": "",
+      "friendlyName": "Express Backend",
+      "type": "api",
+      "appLocation": "/",
+      "ingressPort": "3000"
+    }
+  ]
+}
